@@ -9,7 +9,7 @@ sites:
     url: https://actions.ekyo.app
   - name: Ekyo Studio
     url: https://studio.ekyo.app
- 
+    
 status-website:
   apiBaseUrl: https://github-proxy.staging.natives.easyteam.fr/EE1A2718-6558-48BC-A7BA-0598A59325BC
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
