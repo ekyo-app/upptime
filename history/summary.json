@@ -4,19 +4,19 @@
     "url": "https://mesure.ekyo.app",
     "icon": "https://icons.duckduckgo.com/ip3/mesure.ekyo.app.ico",
     "slug": "ekyo-mesure",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1559,
-    "timeDay": 1365,
-    "timeWeek": 1559,
-    "timeMonth": 1559,
-    "timeYear": 1559,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 1674,
+    "timeDay": 1534,
+    "timeWeek": 1674,
+    "timeMonth": 1674,
+    "timeYear": 1674,
     "dailyMinutesDown": {
-      "2023-06-16": 1
+      "2023-06-16": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://actions.ekyo.app",
     "icon": "https://icons.duckduckgo.com/ip3/actions.ekyo.app.ico",
     "slug": "ekyo-trajectoire-and-plan-d-action",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1836,
-    "timeDay": 1210,
-    "timeWeek": 1836,
-    "timeMonth": 1836,
-    "timeYear": 1836,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 1967,
+    "timeDay": 1422,
+    "timeWeek": 1967,
+    "timeMonth": 1967,
+    "timeYear": 1967,
     "dailyMinutesDown": {
-      "2023-06-16": 1
+      "2023-06-16": 6
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://studio.ekyo.app",
     "icon": "https://icons.duckduckgo.com/ip3/studio.ekyo.app.ico",
     "slug": "ekyo-studio",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1561,
-    "timeDay": 1182,
-    "timeWeek": 1561,
-    "timeMonth": 1561,
-    "timeYear": 1561,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 1678,
+    "timeDay": 1361,
+    "timeWeek": 1678,
+    "timeMonth": 1678,
+    "timeYear": 1678,
     "dailyMinutesDown": {
-      "2023-06-16": 0
+      "2023-06-16": 5
     }
   }
 ]
