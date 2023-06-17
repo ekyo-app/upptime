@@ -4,18 +4,20 @@
     "url": "https://mesure.ekyo.app",
     "icon": "https://icons.duckduckgo.com/ip3/mesure.ekyo.app.ico",
     "slug": "ekyo-mesure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1336,
-    "timeDay": 903,
-    "timeWeek": 1336,
-    "timeMonth": 1336,
-    "timeYear": 1336,
-    "dailyMinutesDown": {}
+    "time": 1304,
+    "timeDay": 245,
+    "timeWeek": 1304,
+    "timeMonth": 1304,
+    "timeYear": 1304,
+    "dailyMinutesDown": {
+      "2023-06-17": 0
+    }
   },
   {
     "name": "Ekyo Trajectoire & Plan d'Action",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1560,
-    "timeDay": 1141,
-    "timeWeek": 1560,
-    "timeMonth": 1560,
-    "timeYear": 1560,
+    "time": 1522,
+    "timeDay": 244,
+    "timeWeek": 1522,
+    "timeMonth": 1522,
+    "timeYear": 1522,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1334,
-    "timeDay": 932,
-    "timeWeek": 1334,
-    "timeMonth": 1334,
-    "timeYear": 1334,
+    "time": 1302,
+    "timeDay": 227,
+    "timeWeek": 1302,
+    "timeMonth": 1302,
+    "timeYear": 1302,
     "dailyMinutesDown": {}
   }
 ]
