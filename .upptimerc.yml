@@ -11,7 +11,7 @@ sites:
     url: https://studio.ekyo.app
     
 status-website:
-  theme: "light"
+  theme: "ekyo"
   # apiBaseUrl: https://github-proxy.staging.natives.easyteam.fr/status-board
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
