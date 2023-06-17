@@ -12,6 +12,9 @@ sites:
 
 status-website:
   theme: "dark"
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
   # apiBaseUrl: https://github-proxy.staging.natives.easyteam.fr/status-board
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
