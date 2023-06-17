@@ -28,8 +28,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: Support
       href: https://ekyo.zendesk.com/hc/fr/requests/new
   publish: true
