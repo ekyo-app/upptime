@@ -26,6 +26,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Support
+      href: https://ekyo.zendesk.com/hc/fr/requests/new
   publish: true
 
 # Upptime also supports notifications, assigning issues, and more
