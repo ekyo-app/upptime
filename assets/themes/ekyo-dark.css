@@ -1,13 +1,13 @@
 :root {
-  --body-background-color: #f7f7f7;
-  --body-text-color: #333333;
-  --card-background-color: #ffffff;
+  --body-background-color: #141414;
+  --body-text-color: #ffffff;
+  --card-background-color: #252525;
   --nav-background-color: #6c5ce7;
   --nav-border-bottom-color: #5145c3;
   --nav-current-border-bottom-color: #ffffff;
-  --card-border-color: #dddddd;
+  --card-border-color: #333333;
   --down-border-left-color: #eb3b5a;
-  --down-background-color: #ffeff0;
+  --down-background-color: #440f24;
   --degraded-border-left-color: #f7b731;
   --up-border-left-color: #20bf6b;
   --tag-color: #ffffff;
@@ -25,4 +25,5 @@
   --graph-filter: none;
 }
 
+/* Le reste du CSS reste inchangé */
 
