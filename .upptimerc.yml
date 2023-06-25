@@ -12,7 +12,7 @@ sites:
     url: https://studio.ekyo.app
 
 status-website:
-  theme: "dark"
+  theme: "ekyo-dark"
   metaTags:
     - name: "color-scheme"
       content: "dark light"
