@@ -6,6 +6,7 @@ user-agent: saadamine
 sites:
   - name: Ekyo Mesure
     url: https://mesure.ekyo.app
+    icon: https://global-uploads.webflow.com/637f68074e36524ed8576c3b/63d8e4852d9d55758512bd62_favicon.png
   - name: Ekyo Trajectoire & Plan d'Action
     url: https://actions.ekyo.app
   - name: Ekyo Studio
