@@ -12,25 +12,25 @@ sites:
     url: https://studio.ekyo.app
 
 status-website:
+  name: Status
+  cname: status.ekyo.app
   theme: dark
+  logoUrl: https://camo.githubusercontent.com/77b20c76a0ed7758abbbf62c3349deab84f9e95699fef80bd53cb158225157de/68747470733a2f2f69636f6e732e6475636b6475636b676f2e636f6d2f6970332f616374696f6e732e656b796f2e6170702e69636f
+  favicon: https://global-uploads.webflow.com/637f68074e36524ed8576c3b/63d8e4852d9d55758512bd62_favicon.png
   metaTags:
     - name: "color-scheme"
       content: "dark light"
-  # apiBaseUrl: https://github-proxy.staging.natives.easyteam.fr/status-board
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.ekyo.app
-  # baseUrl:
-  logoUrl: https://camo.githubusercontent.com/77b20c76a0ed7758abbbf62c3349deab84f9e95699fef80bd53cb158225157de/68747470733a2f2f69636f6e732e6475636b6475636b676f2e636f6d2f6970332f616374696f6e732e656b796f2e6170702e69636f
-  name: Status
-  #  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  #  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: Support
       href: https://ekyo.zendesk.com/hc/fr/requests/new
   publish: true
-
+  # apiBaseUrl: https://github-proxy.staging.natives.easyteam.fr/status-board
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # baseUrl:
+  #  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
