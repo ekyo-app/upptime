@@ -4,18 +4,20 @@
     "url": "https://mesure.ekyo.app",
     "icon": "https://studio.ekyo.app/logoEkyoM.png",
     "slug": "ekyo-mesure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 718,
-    "timeDay": 144,
-    "timeWeek": 191,
-    "timeMonth": 232,
-    "timeYear": 718,
-    "dailyMinutesDown": {}
+    "time": 711,
+    "timeDay": 171,
+    "timeWeek": 192,
+    "timeMonth": 231,
+    "timeYear": 711,
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "Ekyo Trajectoire & Plan d'Action",
