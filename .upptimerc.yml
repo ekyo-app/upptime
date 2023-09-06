@@ -10,6 +10,8 @@ sites:
     url: https://actions.ekyo.app
   - name: Ekyo Studio
     url: https://studio.ekyo.app
+  - name: Web Ekyo
+    url: https://www.ekyo.app
 
 status-website:
   themeUrl: https://status.ekyo.app/ekyo.css
