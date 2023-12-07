@@ -40,18 +40,20 @@
     "url": "https://studio.ekyo.app",
     "icon": "https://icons.duckduckgo.com/ip3/studio.ekyo.app.ico",
     "slug": "ekyo-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 151,
-    "timeWeek": 217,
-    "timeMonth": 188,
+    "timeDay": 211,
+    "timeWeek": 224,
+    "timeMonth": 190,
     "timeYear": 393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-07": 0
+    }
   },
   {
     "name": "Web Ekyo",
