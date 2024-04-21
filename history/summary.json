@@ -4,18 +4,20 @@
     "url": "https://mesure.ekyo.app",
     "icon": "https://studio.ekyo.app/logoEkyoM.png",
     "slug": "ekyo-mesure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 179,
-    "timeWeek": 196,
-    "timeMonth": 207,
-    "timeYear": 323,
-    "dailyMinutesDown": {}
+    "time": 322,
+    "timeDay": 177,
+    "timeWeek": 194,
+    "timeMonth": 206,
+    "timeYear": 322,
+    "dailyMinutesDown": {
+      "2024-04-21": 0
+    }
   },
   {
     "name": "Ekyo Trajectoire & Plan d'Action",
@@ -24,18 +26,16 @@
     "slug": "ekyo-trajectoire-and-plan-d-action",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
     "timeDay": 163,
     "timeWeek": 184,
     "timeMonth": 196,
     "timeYear": 342,
-    "dailyMinutesDown": {
-      "2024-04-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ekyo Studio",
