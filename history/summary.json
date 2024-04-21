@@ -4,19 +4,19 @@
     "url": "https://mesure.ekyo.app",
     "icon": "https://studio.ekyo.app/logoEkyoM.png",
     "slug": "ekyo-mesure",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 188,
-    "timeWeek": 193,
-    "timeMonth": 204,
-    "timeYear": 321,
+    "time": 320,
+    "timeDay": 185,
+    "timeWeek": 192,
+    "timeMonth": 203,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2024-04-21": 0
+      "2024-04-21": 6
     }
   },
   {
