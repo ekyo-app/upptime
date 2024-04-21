@@ -22,18 +22,20 @@
     "url": "https://actions.ekyo.app",
     "icon": "https://icons.duckduckgo.com/ip3/actions.ekyo.app.ico",
     "slug": "ekyo-trajectoire-and-plan-d-action",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 343,
-    "timeDay": 168,
-    "timeWeek": 191,
-    "timeMonth": 198,
-    "timeYear": 343,
-    "dailyMinutesDown": {}
+    "time": 342,
+    "timeDay": 157,
+    "timeWeek": 185,
+    "timeMonth": 197,
+    "timeYear": 342,
+    "dailyMinutesDown": {
+      "2024-04-21": 0
+    }
   },
   {
     "name": "Ekyo Studio",
@@ -42,9 +44,9 @@
     "slug": "ekyo-studio",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 314,
     "timeDay": 205,
@@ -52,7 +54,6 @@
     "timeMonth": 200,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-04-21": 6,
       "2024-03-20": 195,
       "2023-12-07": 685
     }
