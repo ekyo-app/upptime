@@ -22,19 +22,19 @@
     "url": "https://actions.ekyo.app",
     "icon": "https://icons.duckduckgo.com/ip3/actions.ekyo.app.ico",
     "slug": "ekyo-trajectoire-and-plan-d-action",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 342,
-    "timeDay": 157,
-    "timeWeek": 185,
-    "timeMonth": 197,
+    "timeDay": 163,
+    "timeWeek": 184,
+    "timeMonth": 196,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-04-21": 0
+      "2024-04-21": 6
     }
   },
   {
