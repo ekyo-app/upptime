@@ -1,7 +1,7 @@
 url: https://mesure.ekyo.app
-status: up
-code: 200
-responseTime: 176
-lastUpdated: 2024-04-21T13:07:43.221Z
+status: down
+code: 502
+responseTime: 166
+lastUpdated: 2024-04-21T13:29:54.276Z
 startTime: 2023-06-15T14:13:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
