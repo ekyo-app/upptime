@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 191,
+    "timeDay": 190,
     "timeWeek": 194,
     "timeMonth": 203,
     "timeYear": 319,
@@ -24,18 +24,16 @@
     "slug": "ekyo-trajectoire-and-plan-d-action",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 161,
-    "timeWeek": 179,
+    "time": 340,
+    "timeDay": 163,
+    "timeWeek": 180,
     "timeMonth": 194,
-    "timeYear": 341,
-    "dailyMinutesDown": {
-      "2024-04-21": 6
-    }
+    "timeYear": 340,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ekyo Studio",
@@ -44,17 +42,16 @@
     "slug": "ekyo-studio",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 313,
-    "timeDay": 191,
+    "time": 312,
+    "timeDay": 189,
     "timeWeek": 200,
     "timeMonth": 198,
-    "timeYear": 313,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2024-04-21": 6,
       "2024-03-20": 195,
       "2023-12-07": 685
     }
@@ -71,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 224,
-    "timeDay": 116,
-    "timeWeek": 209,
-    "timeMonth": 228,
+    "timeDay": 77,
+    "timeWeek": 202,
+    "timeMonth": 223,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2023-10-30": 19
