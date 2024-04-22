@@ -1,7 +1,7 @@
 url: https://studio.ekyo.app
-status: up
-code: 200
-responseTime: 156
-lastUpdated: 2024-04-22T06:17:31.031Z
+status: down
+code: 502
+responseTime: 257
+lastUpdated: 2024-04-22T08:11:50.342Z
 startTime: 2023-06-15T14:13:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
