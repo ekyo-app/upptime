@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 303,
-    "timeDay": 199,
+    "timeDay": 289,
     "timeWeek": 245,
-    "timeMonth": 216,
+    "timeMonth": 220,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2024-05-19": 28
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 321,
-    "timeDay": 143,
-    "timeWeek": 236,
-    "timeMonth": 200,
+    "timeDay": 282,
+    "timeWeek": 231,
+    "timeMonth": 205,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2024-05-19": 28
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 307,
-    "timeDay": 189,
-    "timeWeek": 227,
-    "timeMonth": 199,
+    "timeDay": 281,
+    "timeWeek": 228,
+    "timeMonth": 203,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2024-03-20": 195,
@@ -66,18 +66,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ekyo.app.ico",
     "slug": "web-ekyo",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 220,
-    "timeDay": 125,
-    "timeWeek": 190,
-    "timeMonth": 197,
-    "timeYear": 220,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 221,
+    "timeDay": 203,
+    "timeWeek": 187,
+    "timeMonth": 199,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-06-12": 8,
       "2023-10-30": 19
     }
   }
