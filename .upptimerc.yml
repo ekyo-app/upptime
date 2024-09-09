@@ -8,7 +8,7 @@ sites:
     url: https://mesure.ekyo.app
     icon: https://studio.ekyo.app/logoEkyoM.png
   - name: Ekyo CSRD
-    url: https://csrd.ekyo.app/
+    url: https://csrd.ekyo.app
   - name: Ekyo Trajectoire & Plan d'Action
     url: https://actions.ekyo.app
   - name: Ekyo Studio
