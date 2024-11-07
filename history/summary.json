@@ -14,7 +14,7 @@
     "timeDay": 331,
     "timeWeek": 281,
     "timeMonth": 268,
-    "timeYear": 220,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2024-05-19": 28
     }
@@ -83,18 +83,19 @@
     "url": "https://www.ekyo.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.ekyo.app.ico",
     "slug": "web-ekyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 1424,
-    "timeWeek": 2208,
-    "timeMonth": 1091,
-    "timeYear": 327,
+    "time": 318,
+    "timeDay": 3263,
+    "timeWeek": 2521,
+    "timeMonth": 1205,
+    "timeYear": 350,
     "dailyMinutesDown": {
+      "2024-11-07": 0,
       "2024-10-31": 17
     }
   }
