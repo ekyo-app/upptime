@@ -83,18 +83,19 @@
     "url": "https://www.ekyo.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.ekyo.app.ico",
     "slug": "web-ekyo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 1483,
-    "timeWeek": 2499,
-    "timeMonth": 1301,
-    "timeYear": 364,
+    "time": 329,
+    "timeDay": 1250,
+    "timeWeek": 2400,
+    "timeMonth": 1293,
+    "timeYear": 367,
     "dailyMinutesDown": {
+      "2024-11-10": 0,
       "2024-10-31": 17
     }
   }
