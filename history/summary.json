@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 220,
-    "timeDay": 349,
-    "timeWeek": 285,
-    "timeMonth": 272,
+    "timeDay": 174,
+    "timeWeek": 266,
+    "timeMonth": 269,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2024-05-19": 28
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 358,
-    "timeWeek": 262,
-    "timeMonth": 261,
-    "timeYear": 280,
+    "time": 278,
+    "timeDay": 152,
+    "timeWeek": 240,
+    "timeMonth": 260,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 212,
-    "timeDay": 334,
-    "timeWeek": 262,
-    "timeMonth": 260,
-    "timeYear": 213,
+    "timeDay": 172,
+    "timeWeek": 244,
+    "timeMonth": 259,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2024-05-19": 28
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 219,
-    "timeDay": 332,
-    "timeWeek": 243,
-    "timeMonth": 249,
+    "timeDay": 252,
+    "timeWeek": 236,
+    "timeMonth": 252,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2024-03-20": 195,
@@ -85,17 +85,16 @@
     "slug": "web-ekyo",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 332,
-    "timeDay": 1335,
-    "timeWeek": 2344,
-    "timeMonth": 1299,
-    "timeYear": 370,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
+    "time": 334,
+    "timeDay": 1173,
+    "timeWeek": 2324,
+    "timeMonth": 1319,
+    "timeYear": 373,
     "dailyMinutesDown": {
-      "2024-11-10": 11,
       "2024-10-31": 17
     }
   }
