@@ -85,17 +85,16 @@
     "slug": "web-ekyo",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 2803,
+    "timeDay": 3226,
     "timeWeek": 1943,
     "timeMonth": 1693,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2024-11-21": 6,
       "2024-10-31": 17
     }
   }
