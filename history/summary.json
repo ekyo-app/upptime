@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 197,
-    "timeWeek": 244,
-    "timeMonth": 247,
-    "timeYear": 224,
+    "timeDay": 261,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2024-05-19": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 191,
-    "timeWeek": 217,
-    "timeMonth": 238,
-    "timeYear": 266,
+    "time": 265,
+    "timeDay": 196,
+    "timeWeek": 196,
+    "timeMonth": 196,
+    "timeYear": 265,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 214,
-    "timeDay": 245,
-    "timeWeek": 224,
-    "timeMonth": 239,
-    "timeYear": 214,
+    "time": 215,
+    "timeDay": 199,
+    "timeWeek": 199,
+    "timeMonth": 199,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2024-05-19": 28
     }
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/studio.ekyo.app.ico",
     "slug": "ekyo-studio",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 221,
-    "timeDay": 255,
-    "timeWeek": 212,
-    "timeMonth": 234,
-    "timeYear": 225,
+    "timeDay": 208,
+    "timeWeek": 208,
+    "timeMonth": 208,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2024-03-20": 195
     }
@@ -86,13 +86,13 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 415,
-    "timeDay": 896,
-    "timeWeek": 985,
-    "timeMonth": 1408,
-    "timeYear": 501,
+    "time": 435,
+    "timeDay": 840,
+    "timeWeek": 840,
+    "timeMonth": 840,
+    "timeYear": 588,
     "dailyMinutesDown": {
       "2024-11-22": 21,
       "2024-10-31": 17
