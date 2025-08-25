@@ -4,18 +4,20 @@
     "url": "https://mesure.ekyo.app",
     "icon": "https://icons.duckduckgo.com/ip3/mesure.ekyo.app.ico",
     "slug": "ekyo-mesure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 236,
-    "timeWeek": 259,
-    "timeMonth": 274,
-    "timeYear": 259,
-    "dailyMinutesDown": {}
+    "time": 268,
+    "timeDay": 4720,
+    "timeWeek": 1377,
+    "timeMonth": 553,
+    "timeYear": 290,
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   },
   {
     "name": "Ekyo CSRD",
