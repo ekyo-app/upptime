@@ -24,8 +24,8 @@
     "slug": "ekyo-csrd",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 260,
@@ -34,7 +34,6 @@
     "timeMonth": 264,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-11-21": 2,
       "2025-11-05": 26,
       "2025-06-09": 44,
       "2025-04-18": 43
@@ -94,10 +93,9 @@
     "timeDay": 864,
     "timeWeek": 988,
     "timeMonth": 1011,
-    "timeYear": 1066,
+    "timeYear": 1050,
     "dailyMinutesDown": {
-      "2025-11-06": 251,
-      "2024-11-22": 21
+      "2025-11-06": 251
     }
   }
 ]
