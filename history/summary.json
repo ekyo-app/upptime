@@ -64,17 +64,18 @@
     "slug": "ekyo-studio",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 242,
     "timeDay": 273,
     "timeWeek": 228,
     "timeMonth": 237,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-12-07": 0,
+      "2025-12-08": 30,
+      "2025-12-07": 3,
       "2025-08-13": 16,
       "2025-06-09": 44
     }
